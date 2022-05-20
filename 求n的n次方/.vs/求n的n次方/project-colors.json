@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "57dcaff2-24cd-4cf9-bd14-665d4dd58f41": {
+      "ProjectGuid": "57dcaff2-24cd-4cf9-bd14-665d4dd58f41",
+      "DisplayName": "求n的n次方",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

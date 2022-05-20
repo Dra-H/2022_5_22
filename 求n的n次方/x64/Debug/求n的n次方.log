@@ -1,0 +1,3 @@
+﻿  2022_5_20_1.c
+C:\Users\YanJinTong\Desktop\求n的n次方\2022_5_20_1.c(15,10): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  求n的n次方.vcxproj -> C:\Users\YanJinTong\Desktop\求n的n次方\x64\Debug\求n的n次方.exe
